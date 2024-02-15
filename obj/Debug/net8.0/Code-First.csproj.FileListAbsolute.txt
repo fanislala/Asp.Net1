@@ -1,0 +1,4 @@
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Code-First\Code-First\obj\Debug\net8.0\Code-First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Code-First\Code-First\obj\Debug\net8.0\Code-First.AssemblyInfoInputs.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Code-First\Code-First\obj\Debug\net8.0\Code-First.AssemblyInfo.cs
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Code-First\Code-First\obj\Debug\net8.0\Code-First.csproj.CoreCompileInputs.cache
